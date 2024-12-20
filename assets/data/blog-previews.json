@@ -1,0 +1,29 @@
+[
+    {
+        "type": "post",
+        "title": "Dispositivos Médicos con IA Aprobados por la FDA",
+        "text": "La FDA aprueba dispositivos médicos con IA, mejorando diagnósticos y monitoreo. Estos avances prometen una atención más precisa y personalizada.",
+        "image": "img/blog/dispositivos-ia.jpg",
+        "date": "Septiembre 3, 2024",
+        "author": "alfasafeweb",
+        "readingTime": "2 min"
+    },
+    {
+        "type": "Noticia",
+        "title": "Productos orientados a la seguridad de pacientes",
+        "text": "El DEHP se usa para flexibilizar plásticos en productos comunes. En Colombia, es clave conocer sus riesgos para la salud, ya que se ha eliminado de juguetes y empaques de alimentos en muchos países.",
+        "image": "img/blog/FORMULA-DEHP.png",
+        "date": "Octubre 8, 2021",
+        "author": "alfasafeweb",
+        "readingTime": "2 min de lectura"
+    },
+    {
+        "type": "Noticia",
+        "title": "Productos para la seguridad de profesionales de la salud",
+        "text": "El uso de doble guante en cirugía reduce el riesgo de perforaciones y contacto con fluidos, protegiendo contra infecciones como VIH y hepatitis al alertar sobre perforaciones.",
+        "image": "img/blog/productos-salud--3.jpg",
+        "date": "Septiembre 1, 2021",
+        "author": "alfasafeweb",
+        "readingTime": "1 min de lectura"
+    }
+]

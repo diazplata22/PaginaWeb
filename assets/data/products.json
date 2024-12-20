@@ -1,0 +1,2034 @@
+[
+  {
+    "id": 1,
+    "name": "Toallita Humeda",
+    "description": "Toallita húmeda con alcohol y clorhexidina para limpieza y desinfección.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F1/toallitahumedaalfasafealcohol70clorhexidina2jpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 12 unidades"
+  },
+  {
+    "id": 2,
+    "name": "Conjunto de Conexión y Desconexión de Fístula",
+    "description": "Conjunto diseñado para la conexión y desconexión segura de fístulas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F10/conjuntodeconexinydesconexindefstulaalfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Caja x 5 unidades"
+  },
+  {
+    "id": 3,
+    "name": "Gel Antibacterial",
+    "description": "Gel antibacterial para la limpieza y desinfección de manos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F11/gelantibacterialalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Botella x 500 ml"
+  },
+  {
+    "id": 4,
+    "name": "Preservativos",
+    "description": "Preservativos de alta calidad, seguros y efectivos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F12/preservativosalfasafejpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Caja x 10 unidades"
+  },
+  {
+    "id": 5,
+    "name": "Bolsa de Orina",
+    "description": "Bolsa de orina desechable, ideal para pacientes encamados.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F13/bolsadeorinaalfasafejpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 6,
+    "name": "Cinta Microporosa Hospital",
+    "description": "Cinta microporosa ideal para fijación de vendajes.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F14/cintamicroporosahospitalalfasafejpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Rollo x 5 metros"
+  },
+  {
+    "id": 7,
+    "name": "Esparadrapo Tela Blanco",
+    "description": "Esparadrapo de tela blanca, resistente y fácil de usar.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F15/esparadrapotelablancoalfasafejpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Rollo x 10 metros"
+  },
+  {
+    "id": 8,
+    "name": "Cinta No Tejida Adhesiva",
+    "description": "Cinta adhesiva no tejida, ideal para fijación de apósitos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F16/cintanotejidaadhesivafixosafejpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Rollo x 5 metros"
+  },
+  {
+    "id": 9,
+    "name": "Cinta Microporosa Piel",
+    "description": "Cinta microporosa especialmente diseñada para la piel.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F17/cintamicroporosapielalfasafejpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Rollo x 5 metros"
+  },
+  {
+    "id": 10,
+    "name": "Apósito Transparente Esteril",
+    "description": "Apósito transparente y esteril, ideal para heridas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F18/apositotransparenteesterilalfasafe6x7cmjpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 10 unidades"
+  },
+  {
+    "id": 11,
+    "name": "Apósito Transparente Esteril 20x25 cm",
+    "description": "Apósito transparente y esteril, ideal para cubrir heridas grandes.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F19/apositotransparenteesterilalfasafe20x25cmjpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 10 unidades"
+  },
+  {
+    "id": 12,
+    "name": "Toallita Humeda con Alcohol 70%",
+    "description": "Toallita húmeda con alcohol al 70% para desinfección.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F2/toallitahumedaalfasafealcohol70jpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 12 unidades"
+  },
+  {
+    "id": 13,
+    "name": "Apósito Transparente Esteril 15x20 cm",
+    "description": "Apósito transparente y esteril, ideal para cubrir heridas medianas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F20/apositotransparenteesterilalfasafe15x20cmjpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 10 unidades"
+  },
+  {
+    "id": 14,
+    "name": "Apósito Transparente Esteril 10x12 cm",
+    "description": "Apósito transparente y esteril, ideal para heridas pequeñas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F21/apositotransparenteesterilalfasafe10x12cmjpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 20 unidades"
+  },
+  {
+    "id": 15,
+    "name": "Apósito Transparente Esteril Ival 85x115 cm",
+    "description": "Apósito esteril de gran tamaño, ideal para cirugía.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F22/apositotransparenteesterilivalfasafe85x115cmjpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 16,
+    "name": "Apósito Transparente Esteril Ival 6x7 cm",
+    "description": "Apósito esteril pequeño, ideal para cubrir heridas menores.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F23/apositotransparenteesterilivalfasafe6x7cmjpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 20 unidades"
+  },
+  {
+    "id": 17,
+    "name": "Apósito Transparente Esteril Ival 5x57 cm",
+    "description": "Apósito esteril de tamaño especial, ideal para cubrir heridas irregulares.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F24/apositotransparenteesterilivalfasafe5x57cmjpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 18,
+    "name": "Rollo PGM Mixto con y sin Fuelle 3 Indicadores",
+    "description": "Rollo de PGM mixto, incluye 3 indicadores para control.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F25/rollopgmmixtoconysinfuelle3indicadoresjpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Rollo x 10 metros"
+  },
+  {
+    "id": 19,
+    "name": "Papel Crepado 60g",
+    "description": "Papel crepado de 60 gramos, ideal para diversos usos en el hospital.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F26/papelcrepado60gmalfasafejpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete x 50 hojas"
+  },
+  {
+    "id": 20,
+    "name": "Compresa para Anatomía Esteril No Esteril",
+    "description": "Compresa para procedimientos anatómicos, no esterilizada.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F27/compresalaparatomiaesterilynoesterilalfasafejpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Caja x 10 unidades"
+  },
+  {
+    "id": 21,
+    "name": "Compresa para Anatomía Esteril",
+    "description": "Compresa esteril para procedimientos anatómicos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F28/compresalaparatomiaesterilalfasafejpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Caja x 10 unidades"
+  },
+  {
+    "id": 22,
+    "name": "Gasa Aseptica Esteril No Esteril",
+    "description": "Gasa aséptica, no esterilizada, ideal para diversas aplicaciones.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F29/gasaasepticaesterilynoesterilalfasafejpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Paquete x 20 unidades"
+  },
+  {
+    "id": 23,
+    "name": "Alfasafe 207",
+    "description": "Producto Alfasafe 207, de uso médico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F3/alfasafe207jpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 24,
+    "name": "Alfasafe 312",
+    "description": "Producto Alfasafe 312, de uso médico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F3/alfasafe312jpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 25,
+    "name": "Goteo de Vidrio Plástico",
+    "description": "Goteo de vidrio plástico, ideal para infusiones.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F3/goterovidrioplasticoalfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 26,
+    "name": "Gasa No Tejida",
+    "description": "Gasa no tejida, ideal para curaciones.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F30/gasanotejidaalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 50 unidades"
+  },
+  {
+    "id": 27,
+    "name": "Gasa No Tejida Esteril",
+    "description": "Gasa no tejida, esterilizada para uso médico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F31/gasanotejidaesterilalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 20 unidades"
+  },
+  {
+    "id": 28,
+    "name": "Gasa Tejida",
+    "description": "Gasa tejida, ideal para curaciones.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F32/gasatejidaalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 50 unidades"
+  },
+  {
+    "id": 29,
+    "name": "Gasa Tejida Esteril",
+    "description": "Gasa tejida, esterilizada para uso médico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F33/gasatejidaesterilalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 20 unidades"
+  },
+  {
+    "id": 30,
+    "name": "Gasa Tejida Esteril X-Ray",
+    "description": "Gasa tejida esteril, compatible con rayos X.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F34/gasatejidaesterilxrayalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 10 unidades"
+  },
+  {
+    "id": 31,
+    "name": "Rollo de Gasa Tejida",
+    "description": "Rollo de gasa tejida para uso general.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F35/rollodegasatejidaalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Rollo x 10 metros"
+  },
+  {
+    "id": 32,
+    "name": "Guante de Vinilo",
+    "description": "Guante de vinilo, ideal para procedimientos médicos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F36/guanteviniloalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 33,
+    "name": "Guante Nitrilo Plus Esteril Sin Talco",
+    "description": "Guante de nitrilo, esteril, sin talco.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F37/guantenitriloplusesterilsintalcoalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 50 unidades"
+  },
+  {
+    "id": 34,
+    "name": "Guante Nitrilo Negro",
+    "description": "Guante de nitrilo negro, resistente y duradero.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F38/guantenitrilonegroalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 35,
+    "name": "Guante Nitrilo Azul",
+    "description": "Guante de nitrilo azul, ideal para procedimientos médicos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F39/guantenitriloazulalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 36,
+    "name": "Baja Lengua de Madera",
+    "description": "Baja lengua de madera, útil en exámenes médicos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F4/bajalenguademaderaalfasafeunidadjpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 37,
+    "name": "Guante Nitrilo Azul Thin",
+    "description": "Guante de nitrilo azul delgado, ideal para procedimientos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F40/guantenitriloazulthinalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 38,
+    "name": "Guante Látex Multiusos",
+    "description": "Guante de látex multiusos, ideal para diversas aplicaciones.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F41/guantelatexmultiusosalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 39,
+    "name": "Guante de Cirugía Esteril Sin Talco",
+    "description": "Guante de cirugía esteril, sin talco, para procedimientos quirúrgicos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F42/guantecirugiaesterilsintalcoalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 10 pares"
+  },
+  {
+    "id": 40,
+    "name": "Guante de Cirugía Esteril con Talco",
+    "description": "Guante de cirugía esteril con talco.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F43/guantecirugiaesterilcontalcoalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 10 pares"
+  },
+  {
+    "id": 41,
+    "name": "Guante de Cirugía Esteril Premium Sin Talco",
+    "description": "Guante de cirugía esteril premium, sin talco.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F44/guantecirugiaesterilpremiumsintalcoalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 10 pares"
+  },
+  {
+    "id": 42,
+    "name": "Guante de Cirugía Esteril Premium Verde con Talco",
+    "description": "Guante de cirugía esteril premium verde, con talco.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F45/guantecirugiaesterilpremiumverdecontalcoalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 10 pares"
+  },
+  {
+    "id": 43,
+    "name": "Guante Médico Látex",
+    "description": "Guante médico de látex, ideal para exámenes.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F46/guantemedicolatexalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 44,
+    "name": "Guante de Látex Examen Sin Talco",
+    "description": "Guante de látex para exámenes, sin talco.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F47/guantelatexexamensintalcoalfasafeparjpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 45,
+    "name": "Guante de Látex Examen Sin Talco (x5 Pares)",
+    "description": "Guante de látex para exámenes, sin talco, paquete de 5 pares.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F48/guantelatexexamensintalcoalfasafex5paresjpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 46,
+    "name": "Guante de Látex Examen",
+    "description": "Guante de látex para exámenes.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F49/guantelatexexamensintalcoalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 47,
+    "name": "Guante de Látex Examen con Talco",
+    "description": "Guante de látex para exámenes, con talco.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F50/guantelatexexamencontalcoalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 100 unidades"
+  },
+  {
+    "id": 48,
+    "name": "Guante Indicador de Pinchazos Esteril",
+    "description": "Guante indicador de pinchazos, esteril.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F51/guanteindicadordepinchazosesterilqxalfasafejpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Caja x 10 pares"
+  },
+  {
+    "id": 49,
+    "name": "Llave de Tres Vías",
+    "description": "Llave de tres vías, ideal para uso médico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F52/llavedetresviasalfasafexunidadjpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 50,
+    "name": "Tapón Conector Luer Lock",
+    "description": "Tapón conector Luer Lock para dispositivos médicos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F53/taponconectorluerlockalfasafejpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 51,
+    "name": "Set de Infusión con Buretra",
+    "description": "Set de infusión con buretra, ideal para procedimientos médicos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F54/setdeinfusionconburetraalfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 52,
+    "name": "Set de Infusión Macrogoteo Sin Aguja Libre de DEHP",
+    "description": "Set de infusión macrogoteo, sin aguja, libre de DEHP.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F55/setdeinfusionmacrogoteosinagujalibrededehpalfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 53,
+    "name": "Conector Libre de Aguja",
+    "description": "Conector libre de aguja para sistemas de infusión.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F56/conectorlibredeagujaalfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 54,
+    "name": "Tapón de Heparina Esteril",
+    "description": "Tapón de heparina esteril, ideal para catéteres.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F57/tapondeheparinaesterilalfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 55,
+    "name": "Set de Infusión Macrogoteo Sin Aguja",
+    "description": "Set de infusión macrogoteo, sin aguja.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F58/setdeinfusionmacrogoteosinagujaalfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 56,
+    "name": "Catéter Intravenoso de Seguridad",
+    "description": "Catéter intravenoso de seguridad, ideal para procedimientos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F59/cateterintravenosodeseguridadalfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 57,
+    "name": "Catéter Intravenoso",
+    "description": "Catéter intravenoso, ideal para infusiones.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F60/cateterintravenosoalfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 58,
+    "name": "Jeringa Sin Aguja Luer Lock",
+    "description": "Jeringa sin aguja con conector Luer Lock.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F61/jeringasinagujaluerlockalfasafejpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 59,
+    "name": "Jeringa Punta Catéter",
+    "description": "Jeringa con punta para catéter, ideal para infusiones.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F62/jeringapuntacateteralfasafejpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 60,
+    "name": "Jeringa de Insulina",
+    "description": "Jeringa para insulina, ideal para tratamientos de diabetes.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F63/jeringainsulinaalfasafejpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 61,
+    "name": "Jeringa Tuberculina e Insulina Luer Slip",
+    "description": "Jeringa tuberculina para inyecciones precisas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F64/jeringatuberculinaeinsulinaluerslipalfasafejpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 62,
+    "name": "Jeringa Hipodérmica Calibre de Látex",
+    "description": "Jeringa hipodérmica de látex, calibre 106.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F65/alfasafejeringahipodermicalibredelatexalfasafe106jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 63,
+    "name": "Jeringa Hipodérmica",
+    "description": "Jeringa hipodérmica, ideal para inyecciones.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F66/jeringahipodermicaalfasafejpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 64,
+    "name": "Termómetro Digital Rígido",
+    "description": "Termómetro digital rígido, preciso y fácil de usar.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F67/termometrodigitalrigidoalfasafejpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 65,
+    "name": "Termómetro Digital Rígido Estándar",
+    "description": "Termómetro digital estándar, ideal para uso en clínicas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F68/termometrodigitalrigidoestandaralfasafejpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 66,
+    "name": "Termómetro Digital Infrarrojo",
+    "description": "Termómetro digital infrarrojo, sin contacto.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F69/termometrodigitalinfrarojoalfasafejpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 67,
+    "name": "Aplicador de Madera Punta Algodón",
+    "description": "Aplicador de madera con punta de algodón.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F7/aplicadordemaderapuntaalgodnalfasafejpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 68,
+    "name": "Aplicador de Madera Punta Algodón Esteril",
+    "description": "Aplicador de madera con punta de algodón, esterilizado.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F7/aplicadordemaderapuntaalgodnestrilalfasafegjpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 69,
+    "name": "Termómetro Digital Flexible Estándar",
+    "description": "Termómetro digital flexible, ideal para uso estándar.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F70/termometrodigitalflexestandaralfasafejpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 70,
+    "name": "Termómetro Digital Flexible",
+    "description": "Termómetro digital flexible, cómodo y fácil de usar.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F71/termometrodigitalflexalfasafejpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 71,
+    "name": "Termómetro Digital Flexible Infantil",
+    "description": "Termómetro digital flexible, diseñado para uso infantil.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F72/termometrodigitalflexalfasafeinfantiljpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 72,
+    "name": "Tensiometro Digital de Muñeca",
+    "description": "Tensiometro digital para medir la presión arterial en la muñeca.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F73/alfasafe80tensiometrodigitalmuecaalfasafehk6023jpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 73,
+    "name": "Tensiometro Digital",
+    "description": "Tensiometro digital para uso en clínicas y hogares.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F73/tensiometrodigitalmuecaalfasafehk602jpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 74,
+    "name": "Tensiometro Digital",
+    "description": "Tensiometro digital de última generación.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F74/tesiometrodigitaljpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 75,
+    "name": "Kit de Inyectología",
+    "description": "Kit de inyectología con jeringas incluidas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F8/kitinyectologiaalfasafeconjeringajpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 76,
+    "name": "Conjunto de Conexión y Desconexión para Catéter",
+    "description": "Conjunto para conectar y desconectar catéteres.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/F9/conjuntodeconexinydesconexincatteralfasafejpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 77,
+    "name": "Tapaboca Cuatro Tiras",
+    "description": "Tapaboca de cuatro tiras, ideal para uso diario.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/1tapabocacuatrotiraslamp170627jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 78,
+    "name": "Conjunto Radiofarmacia Esteril",
+    "description": "Conjunto esteril para radiofarmacia.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/50conjuntoradiofarmaciaesterilalfasafecore002jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 79,
+    "name": "Conjunto de Bioseguridad",
+    "description": "Conjunto de bioseguridad para protección personal.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/70conjuntodebioseguridadkib001jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 80,
+    "name": "Aguja Hipodérmica Esteril 16G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 16G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril16gx15x100aghi001jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 81,
+    "name": "Aguja Hipodérmica Esteril 18G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 18G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril18gx15x100aghi003jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 82,
+    "name": "Aguja Hipodérmica Esteril 18G x 1\"",
+    "description": "Aguja hipodérmica esteril de 18G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril18gx1x100aghi002jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 83,
+    "name": "Aguja Hipodérmica Esteril 20G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 20G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril20gx15x100aghi004jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 84,
+    "name": "Aguja Hipodérmica Esteril 21G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 21G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril21gx15x100aghi005jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 85,
+    "name": "Aguja Hipodérmica Esteril 22G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 22G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril22gx15x100aghi006jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 86,
+    "name": "Aguja Hipodérmica Esteril 23G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 23G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril23gx15x100aghi007jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 87,
+    "name": "Aguja Hipodérmica Esteril 24G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 24G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril24gx15x100aghi008jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 88,
+    "name": "Aguja Hipodérmica Esteril 25G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 25G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril25gx15x100aghi009jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 89,
+    "name": "Aguja Hipodérmica Esteril 27G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 27G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril27gx15x100aghi011jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 90,
+    "name": "Aguja Hipodérmica Esteril 28G x 1.5\"",
+    "description": "Aguja hipodérmica esteril de 28G.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujahipodermicaesteril28gx15x100aghi010jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 91,
+    "name": "Aguja Pen Needle 32G x 4mm",
+    "description": "Aguja pen needle de 32G x 4mm.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujapenneedle32gx4mmx100agpe002jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 92,
+    "name": "Aguja Pen Needle 32G x 5mm",
+    "description": "Aguja pen needle de 32G x 5mm.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/agujapenneedle32gx5mmx100agpe001jpg.jpg",
+    "category": "INYECCION",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 93,
+    "name": "Alfasafe 312",
+    "description": "Producto Alfasafe 312.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/alfasafe312jpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 94,
+    "name": "Aplicadores",
+    "description": "Aplicadores para diferentes usos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/aplicadoresjpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 95,
+    "name": "Aplicadores x 100",
+    "description": "Aplicadores en presentación de 100 unidades.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/aplicadoresx100oram002jpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 96,
+    "name": "Aplicadores x 100 (Variante)",
+    "description": "Aplicadores en presentación de 100 unidades (variante).",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/aplicadoresx100oram006jpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 97,
+    "name": "Aplicadores x 20",
+    "description": "Aplicadores en presentación de 20 unidades.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/aplicadoresx20oram001jpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete x 20 unidades"
+  },
+  {
+    "id": 98,
+    "name": "Aplicadores x 3",
+    "description": "Aplicadores en presentación de 3 unidades.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/aplicadoresx3oram006jpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete x 3 unidades"
+  },
+  {
+    "id": 99,
+    "name": "Bajalenguas de Madera 6\"",
+    "description": "Bajalenguas de madera de 6 pulgadas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/bajalenguas6maderajpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 100,
+    "name": "Bajalenguas de Madera 6\" (Unidad)",
+    "description": "Bajalenguas de madera de 6 pulgadas (unidad).",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/bajalenguas6maderaunidadjpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 101,
+    "name": "Bajalenguas de Madera 6\" (Paquete x 100)",
+    "description": "Bajalenguas de madera de 6 pulgadas en presentación de 100 unidades.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/bajalenguas6maderax100orbm004jpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 102,
+    "name": "Bajalenguas de Madera 6\" (Paquete x 20)",
+    "description": "Bajalenguas de madera de 6 pulgadas en presentación de 20 unidades.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/bajalenguas6maderax20orbm001jpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Paquete x 20 unidades"
+  },
+  {
+    "id": 103,
+    "name": "Banner Alfasafe",
+    "description": "Banner publicitario de Alfasafe.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/banneralfasafejpg.jpg",
+    "category": "PUBLICIDAD",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 104,
+    "name": "Cinta Quirúrgica Fixosafe (2 Tamaños)",
+    "description": "Cinta quirúrgica Fixosafe en 2 tamaños desplegados.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/cintaquirurgicafixosafecqnt2tamaosdesplegadosjpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 105,
+    "name": "Cinta Quirúrgica Fixosafe (3 Tamaños)",
+    "description": "Cinta quirúrgica Fixosafe en 3 tamaños.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/cintaquirurgicafixosafecqnt3tamaosjpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 106,
+    "name": "Guantes Sintalco (5 Pares)",
+    "description": "Guantes sintalco en presentación de 5 pares.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/guantessintalco5pares1png.png",
+    "category": "PROTECCION",
+    "presentation": "Paquete x 5 pares"
+  },
+  {
+    "id": 107,
+    "name": "Guantes Sintalco",
+    "description": "Guantes sintalco.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/guantessintalcopng.png",
+    "category": "PROTECCION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 108,
+    "name": "Imagen 5994",
+    "description": "Imagen de referencia 5994.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/img5994jpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 109,
+    "name": "Kit de Inyectología con Toallita Alcohol",
+    "description": "Kit de inyectología que incluye toallita con alcohol.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/kitinyectologiatoallitaalcoholjpg.jpg",
+    "category": "INYECTOLOGIA",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 110,
+    "name": "Kit de Inyectología con Toallita Alcohol y Clorhexidina",
+    "description": "Kit de inyectología que incluye toallita con alcohol y clorhexidina.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/kitinyectologiatoallitaalcoholyclorhexjpg.jpg",
+    "category": "INYECTOLOGIA",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 111,
+    "name": "Llave 3 Vías (Paquete x 100)",
+    "description": "Llave de 3 vías en presentación de 100 unidades (detalle).",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/llave3viasx100detailjpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 112,
+    "name": "Llave 3 Vías (Paquete x 100)",
+    "description": "Llave de 3 vías en presentación de 100 unidades.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/llave3viasx100jpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Paquete x 100 unidades"
+  },
+  {
+    "id": 113,
+    "name": "Pantaloneta Paciente No Estéril",
+    "description": "Pantaloneta para paciente, no estéril.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/pantalonetapacientenoesterilropnl009jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 114,
+    "name": "Pantalón Overol Azul Estéril",
+    "description": "Pantalón overol azul estéril.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/pantalonoverolazulesterilropnl006jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 115,
+    "name": "Rollo de Papel Fuelle",
+    "description": "Rollo de papel tipo fuelle.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/pgmrollofuellejpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 116,
+    "name": "Rollo de Papel",
+    "description": "Rollo de papel estándar.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/pgmrollojpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 117,
+    "name": "Rollo de Papel Plano 2",
+    "description": "Rollo de papel plano, tipo 2.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/pgmrolloplano2jpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 118,
+    "name": "Productos OK",
+    "description": "Referencia de productos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/prodcutosokok22jpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 119,
+    "name": "Rollo de Papel Fuelle",
+    "description": "Rollo de papel tipo fuelle.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/rollopapelfuellejpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 120,
+    "name": "Rollo de Papel Plano",
+    "description": "Rollo de papel plano.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/rollopapelplanojpg.jpg",
+    "category": "GENERICO",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 121,
+    "name": "Sábana Ajustable Azul (Empaques Individuales)",
+    "description": "Sábana ajustable azul en empaques individuales.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/sabanaajustableazulempindivrocms005jpg.jpg",
+    "category": "TEXTILES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 122,
+    "name": "Sábana Ajustable Azul",
+    "description": "Sábana ajustable azul.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/sabanaajustableazulrocms003jpg.jpg",
+    "category": "TEXTILES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 123,
+    "name": "Sábana No Ajustable Azul (Empaques Individuales)",
+    "description": "Sábana no ajustable azul en empaques individuales.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/sabananoajustableazulempindivrocms006jpg.jpg",
+    "category": "TEXTILES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 124,
+    "name": "Set de Infusión con Buretra",
+    "description": "Set de infusión con buretra.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/setdeinfusionconburetraimsa007jpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 125,
+    "name": "Set de Infusión con Macro Goteo x 30",
+    "description": "Set de infusión con macro goteo x 30.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/setdeinfusionconmacrogoteox30imsa007jpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 126,
+    "name": "Set Infusión Macro Goteo Bioseguro",
+    "description": "Set infusión macro goteo bioseguro.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/setinfusionmacrogoteobiosegurojpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 127,
+    "name": "Set Infusión Macro Goteo Bioseguro (Detalle)",
+    "description": "Set infusión macro goteo bioseguro en detalle.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/setinfusionmacrogoteobiosegurosadetailjpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 128,
+    "name": "Set Infusión Macro Goteo (Detalle)",
+    "description": "Set de infusión macro goteo en detalle.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/setinfusionmacrogoteodetailjpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 129,
+    "name": "Set Infusión Macro Goteo Undimsa",
+    "description": "Set infusión macro goteo Undimsa.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/setinfusionmacrogoteoundimsa001jpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 130,
+    "name": "Tapabocas 4 Tiras x 50",
+    "description": "Pack de 50 tapabocas de 4 tiras.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tapabocas4tirasx50rotpt001jpg.jpg",
+    "category": "PROTECCION",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 131,
+    "name": "Tapabocas Azul x 50",
+    "description": "Pack de 50 tapabocas azules.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tapabocasazulx50rotpe001jpg.jpg",
+    "category": "PROTECCION",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 132,
+    "name": "Tapabocas Blanco con Elástico x 50",
+    "description": "Pack de 50 tapabocas blancos con elástico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tapabocasblancoconelasticox50rotpe008jpg.jpg",
+    "category": "PROTECCION",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 133,
+    "name": "Tapabocas Blanco x 50",
+    "description": "Pack de 50 tapabocas blancos.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tapabocasblancox50rotpe002jpg.jpg",
+    "category": "PROTECCION",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 134,
+    "name": "Tapabocas con Elástico Azul x 50",
+    "description": "Pack de 50 tapabocas azules con elástico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tapabocasconelasticoazulx50rotpe007jpg.jpg",
+    "category": "PROTECCION",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 135,
+    "name": "Tapabocas Kids con Elástico x 25",
+    "description": "Pack de 25 tapabocas para niños con elástico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tapabocasconelasticokidsx25rotpe014jpg.jpg",
+    "category": "PROTECCION",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 136,
+    "name": "Tapabocas Negro con Elástico x 50",
+    "description": "Pack de 50 tapabocas negros con elástico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tapabocasnegroconelasticox50rotpen004jpg.jpg",
+    "category": "PROTECCION",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 137,
+    "name": "Tapabocas Negro x 50",
+    "description": "Pack de 50 tapabocas negros.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tapabocasnegrox50rotpen004jpg.jpg",
+    "category": "PROTECCION",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 138,
+    "name": "Tapón de Heparina",
+    "description": "Tapón de heparina estéril.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tapondeheparinaimsa002jpg.jpg",
+    "category": "INFUSION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 139,
+    "name": "Tensiometro Digital Brazo TND B003 (Caja)",
+    "description": "Tensiometro digital para brazo, modelo TND B003, en caja.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tensiometrodigitalbrazotndb003cajainfojpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 140,
+    "name": "Tensiometro Digital Brazo TND B003 (Contenido)",
+    "description": "Contenido del tensiometro digital para brazo, modelo TND B003.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tensiometrodigitalbrazotndb003contenidojpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 141,
+    "name": "Tensiometro Digital Brazo TND B003",
+    "description": "Tensiometro digital para brazo, modelo TND B003.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tensiometrodigitalbrazotndb003jpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 142,
+    "name": "Tensiometro Digital Muñeca TND M002",
+    "description": "Tensiometro digital para muñeca, modelo TND M002.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tensiometrodigitalmuecatndm002jpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 143,
+    "name": "Tensiometro Digital Muñeca TND M002 (Mano)",
+    "description": "Tensiometro digital para muñeca, modelo TND M002 en mano.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tensiometrodigitalmuecatndm002manojpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 144,
+    "name": "Termómetro Digital Flexible STD TRDF 012 HRZ",
+    "description": "Termómetro digital flexible, modelo STD TRDF 012 HRZ.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/termometrodigitalflexiblestdtrdf012hrzjpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 145,
+    "name": "Termómetro Digital Flexible STD TRDF 012",
+    "description": "Termómetro digital flexible, modelo STD TRDF 012.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/termometrodigitalflexiblestdtrdf012jpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 146,
+    "name": "Termómetro Digital Flexible TRDF 001 HRZ",
+    "description": "Termómetro digital flexible, modelo TRDF 001 HRZ.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/termometrodigitalflexibletrdf001hrzjpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 147,
+    "name": "Termómetro Digital Flexible TRDF 001",
+    "description": "Termómetro digital flexible, modelo TRDF 001.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/termometrodigitalflexibletrdf001jpg.jpg",
+    "category": "MEDICION",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 148,
+    "name": "Toallitas de Alcohol y Clorhexidina x 100 (Con Unidad)",
+    "description": "Toallitas de alcohol y clorhexidina, paquete de 100 con unidad.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/toallitasalcoholyclorhexx100conunidadjpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 149,
+    "name": "Toallitas de Alcohol y Clorhexidina x 100",
+    "description": "Toallitas de alcohol y clorhexidina, paquete de 100.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/toallitasalcoholyclorhexx100jpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 150,
+    "name": "Toallitas de Alcohol y Clorhexidina Destapadas",
+    "description": "Toallitas de alcohol y clorhexidina, destapadas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tohu001toallitasalcoholyclorhexdestapadajpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 151,
+    "name": "Toallitas de Alcohol y Clorhexidina",
+    "description": "Toallitas de alcohol y clorhexidina.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tohu001toallitasalcoholyclorhexjpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 152,
+    "name": "Toallitas de Alcohol Destapadas",
+    "description": "Toallitas de alcohol, destapadas.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tohu002toallitasalcoholdestapadajpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 153,
+    "name": "Toallitas de Alcohol",
+    "description": "Toallitas de alcohol.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tohu002toallitasalcoholjpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 154,
+    "name": "Toallitas de Alcohol x 100 (Unidad B)",
+    "description": "Toallitas de alcohol, paquete de 100 en unidad B.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/tohu002toallitasalcoholx100unidadbjpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Paquete"
+  },
+  {
+    "id": 155,
+    "name": "Venda Elástica Piel 5 Tamaños",
+    "description": "Venda elástica para piel, disponible en 5 tamaños.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/vendaelasticapiel5tamaosveelpjpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 156,
+    "name": "Venda Elástica Piel Cerrada",
+    "description": "Venda elástica para piel, cerrada.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/vendaelasticapielcerradaveelpjpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 157,
+    "name": "Venda Elástica Piel Texturada",
+    "description": "Venda elástica para piel, texturada.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/vendaelasticapieltexturaveelpjpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 158,
+    "name": "Venda Fija Blanca 5 Tamaños",
+    "description": "Venda fija blanca disponible en 5 tamaños.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/vendafijablanca5tamaosvefbjpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 159,
+    "name": "Venda Fija Blanca Cerrada",
+    "description": "Venda fija blanca cerrada.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/vendafijablancacerradavefbjpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 160,
+    "name": "Venda Fija Blanca Texturada",
+    "description": "Venda fija blanca texturada.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/vendafijablancatexturavefbjpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 161,
+    "name": "Vendas Yeso VEY B 4 Tamaños",
+    "description": "Vendas de yeso disponibles en 4 tamaños.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/vendasyesoveyb4tamaosjpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 162,
+    "name": "Vendas Yeso VEY B 4 Textura",
+    "description": "Vendas de yeso de textura.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/vendasyesoveyb4texturajpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 163,
+    "name": "Bolsa de Orina Blor 001",
+    "description": "Bolsa de orina modelo Blor 001.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/bolsadeorina/bolsadeorinablor001jpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 164,
+    "name": "Cinta Quirúrgica CQM 013",
+    "description": "Cinta quirúrgica microporosa, modelo CQM 013.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/citamicroporosa/cintaquirurgicacqm013jpg.jpg",
+    "category": "CUIDADO DE HERIDAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 165,
+    "name": "Kit de Conexión y Desconexión Catéter",
+    "description": "Kit para conexión y desconexión de catéter.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/conjuntodeconexinydesconexincatter/kitdeconexiondesconexioncateterjpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 166,
+    "name": "Kit de Conexión Fistula KIDV 001",
+    "description": "Kit para conexión de fistula, modelo KIDV 001.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/conjuntodefistula/kitconexionfistulakidv001jpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 167,
+    "name": "Goteros de Vidrio",
+    "description": "Goteros de vidrio para uso médico.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/fotosjulio2022/goterovidrioplasticoalfasafe/goterodevidriojpg.jpg",
+    "category": "COMPLEMENTARIOS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 168,
+    "name": "Alfasafe 19",
+    "description": "Ropa modelo Alfasafe 19.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe19jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 169,
+    "name": "Alfasafe 502",
+    "description": "Ropa modelo Alfasafe 502.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe502jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 170,
+    "name": "Alfasafe 503",
+    "description": "Ropa modelo Alfasafe 503.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe503jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 171,
+    "name": "Alfasafe 503 JPG",
+    "description": "Ropa modelo Alfasafe 503 JPG.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe503jpgjpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 172,
+    "name": "Alfasafe 504",
+    "description": "Ropa modelo Alfasafe 504.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe504jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 173,
+    "name": "Alfasafe 504 JPG",
+    "description": "Ropa modelo Alfasafe 504.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe504jpgjpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 174,
+    "name": "Alfasafe 505",
+    "description": "Ropa modelo Alfasafe 505.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe505jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 175,
+    "name": "Alfasafe 507",
+    "description": "Ropa modelo Alfasafe 507.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe507jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 176,
+    "name": "Alfasafe 5 Mesa de Trabajo 1",
+    "description": "Ropa modelo Alfasafe 5 para mesa de trabajo.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe5mesadetrabajo1jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 177,
+    "name": "Alfasafe 604",
+    "description": "Ropa modelo Alfasafe 604.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe604jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 178,
+    "name": "Alfasafe 605",
+    "description": "Ropa modelo Alfasafe 605.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe605jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 179,
+    "name": "Alfasafe 606",
+    "description": "Ropa modelo Alfasafe 606.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe606jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 180,
+    "name": "Alfasafe 607",
+    "description": "Ropa modelo Alfasafe 607.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe607jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 181,
+    "name": "Alfasafe 608",
+    "description": "Ropa modelo Alfasafe 608.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe608jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 182,
+    "name": "Alfasafe 609",
+    "description": "Ropa modelo Alfasafe 609.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe609jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 183,
+    "name": "Alfasafe 613",
+    "description": "Ropa modelo Alfasafe 613.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe613jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 184,
+    "name": "Alfasafe 614",
+    "description": "Ropa modelo Alfasafe 614.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/ROPA/alfasafe614jpg.jpg",
+    "category": "ROPA DESECHABLE",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 185,
+    "name": "Tapabocas Alfasafe 02",
+    "description": "Tapabocas modelo Alfasafe 02.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafe02jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 186,
+    "name": "Tapabocas Alfasafe 18",
+    "description": "Tapabocas modelo Alfasafe 18.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafe18jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 187,
+    "name": "Tapabocas Alfasafe 506",
+    "description": "Tapabocas modelo Alfasafe 506.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafe506jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 188,
+    "name": "Tapabocas Alfasafe 508",
+    "description": "Tapabocas modelo Alfasafe 508.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafe508jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 189,
+    "name": "Tapabocas Alfasafe 509",
+    "description": "Tapabocas modelo Alfasafe 509.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafe509jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 190,
+    "name": "Tapabocas Alfasafe 510",
+    "description": "Tapabocas modelo Alfasafe 510.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafe510jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 191,
+    "name": "Tapabocas Alfasafe 515",
+    "description": "Tapabocas modelo Alfasafe 515.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafe515jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 192,
+    "name": "Tapabocas Alfasafe 616",
+    "description": "Tapabocas modelo Alfasafe 616.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafe616jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 193,
+    "name": "Tapabocas Alfasafe 617",
+    "description": "Tapabocas modelo Alfasafe 617.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafe617jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 194,
+    "name": "Tapabocas Alfasafe Mesa de Trabajo 1",
+    "description": "Tapabocas modelo Alfasafe para mesa de trabajo.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/alfasafemesadetrabajo1jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 195,
+    "name": "Tapabocas Ilustrator 213",
+    "description": "Tapabocas modelo Ilustrator 213.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/ilustrator213jpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 196,
+    "name": "Respirador Desechable KN95 Alfasafe",
+    "description": "Respirador desechable KN95 modelo Alfasafe.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/TAPABOCAS/respiradordesechablekn95alfasafejpg.jpg",
+    "category": "TAPABOCAS",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 197,
+    "name": "Venda Alfasafe 902",
+    "description": "Venda modelo Alfasafe 902.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/VENDAS/alfasafe902jpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 198,
+    "name": "Venda Alfasafe 903",
+    "description": "Venda modelo Alfasafe 903.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/VENDAS/alfasafe903jpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 199,
+    "name": "Venda Alfasafe 904",
+    "description": "Venda modelo Alfasafe 904.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/VENDAS/alfasafe904jpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 200,
+    "name": "Venda Alfasafe 905",
+    "description": "Venda modelo Alfasafe 905.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/VENDAS/alfasafe905jpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 201,
+    "name": "Venda Alfasafe 906",
+    "description": "Venda modelo Alfasafe 906.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/VENDAS/alfasafe906jpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  },
+  {
+    "id": 202,
+    "name": "Venda Alfasafe Mesa de Trabajo 1",
+    "description": "Venda modelo Alfasafe para mesa de trabajo.",
+    "price": null,
+    "quantity": null,
+    "image": "img/catalog/VENDAS/alfasafe9mesadetrabajo1jpg.jpg",
+    "category": "VENDAJES",
+    "presentation": "Unidad"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+

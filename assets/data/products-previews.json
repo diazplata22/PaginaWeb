@@ -1,0 +1,92 @@
+[
+    {
+        "type": "Productos",
+        "title": "Complementarios",
+        "text": "Complementarios",
+        "image": "img/catalog/Complementarios.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    },
+    {
+        "type": "Productos",
+        "title": "Cuidado de heridas",
+        "text": "Cuidado de heridas",
+        "image": "img/catalog/Cuidadoheridas.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    },
+    {
+        "type": "Productos",
+        "title": "Ropa desechable",
+        "text": "Ropa desechable",
+        "image": "img/catalog/Ropadesechable.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    },
+	{
+        "type": "Productos",
+        "title": "Gasas",
+        "text": "Gasas",
+        "image": "img/catalog/gasas.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    },
+    {
+        "type": "Productos",
+        "title": "Guantes",
+        "text": "Guantes",
+        "image": "img/catalog/Guantes.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    },
+    {
+        "type": "Productos",
+        "title": "Medición",
+        "text": "Medición",
+        "image": "img/catalog/Medicion.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    },
+    {
+        "type": "Productos",
+        "title": "Vendajes",
+        "text": "Vendajes",
+        "image": "img/catalog/Vendajes.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    },
+    {
+        "type": "Productos",
+        "title": "Infusión",
+        "text": "Infusión",
+        "image": "img/catalog/Infusion.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    },
+    {
+        "type": "Productos",
+        "title": "Jeringas",
+        "text": "Jeringas",
+        "image": "img/catalog/Jeringas.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    },
+    {
+        "type": "Productos",
+        "title": "Esterilización",
+        "text": "Esterilización",
+        "image": "img/catalog/Esterilizacion.png",
+        "date": "Dieciembre 23, 2024",
+        "author": "alfasafeweb",
+        "readingTime": ""
+    }
+]
